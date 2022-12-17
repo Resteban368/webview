@@ -40,6 +40,7 @@ class WarningWidgetChangeNotifier extends StatelessWidget {
   }
 }
 
+// ignore: must_be_immutable
 class MensajeNoInternetScreen extends StatelessWidget {
   const MensajeNoInternetScreen({Key? key}) : super(key: key);
   @override
